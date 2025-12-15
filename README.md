@@ -14,7 +14,7 @@ Ett bra routing-bibliotek är essentiellt för alla single page applications. I 
 
 1. Öppna terminalen i ditt existerande projekt
 2. Installera TanStack Router tillsammans med devtools - `npm i @tanstack/react-router @tanstack/react-router-devtools`
-3. Installera tillhörande Vite plugin - `npm i -D @tanstack/router-plugin`
+3. Installera tillhörande Vite plugin - `npm i -D @tanstack/router-vite-plugin`
 4. Lägg till TanStack-pluginen i `vite.config.ts` tillsammans med övriga plugins i arrayen. Det bör se ungefär såhär ut efteråt:
 
    **Läs först igenom kodexemplet och förstå vad som händer så att du inte riskerar att klistra in och skriva över andra plugins som du redan använder**
